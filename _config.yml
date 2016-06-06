@@ -1,0 +1,8 @@
+gems:
+  - jekyll-redirect-from
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  
